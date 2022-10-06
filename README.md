@@ -6,7 +6,7 @@ Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und ver
 
 Wir wünschen Ihnen viel Freude bei Ihrer **Datenanalyse**!
 
-![Course Banner](https://github.com/GitiHubi/CFM/blob/main/banner.png)
+![Course Banner](https://github.com/GitiHubi/CADS/blob/main/banner.png)
 
 ## Jupyter Lab Notebooks
 
