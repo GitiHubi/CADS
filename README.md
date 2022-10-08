@@ -18,7 +18,7 @@ Nachfolgend finden Sie unsere aktuellen Notebooks:
 |  01 | Vorbereitung | Jupyter Notebook und Python                           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CADS/main?filepath=lab_01%2F/lab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CADS/blob/main/lab_01/lab_01.ipynb)|
 |  02 | 16.12.2021 | Supervised Machine Learning | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CADS/main?filepath=lab_02%2F/lab_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CADS/blob/main/lab_02/lab_02.ipynb)|
 |  03 | 16.12.2021 | Unsupervised Machine Learning | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CADS/main?filepath=lab_03%2F/lab_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CADS/blob/main/lab_03/lab_03.ipynb)|
-
+|  05 | 16.12.2021 | Unsupervised Deep Learning | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CADS/main?filepath=lab_05%2F/lab_05.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CADS/blob/main/lab_05/lab_05.ipynb)|
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
