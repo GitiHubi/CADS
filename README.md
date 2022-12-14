@@ -28,13 +28,13 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
 
-#### [Option 1] Binder Cloud Umgebung ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main))
+#### [Option 1] Binder Cloud Umgebung ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CADS/main))
 
 Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten. Klicken Sie hierzu auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines Binder Notebook's einige Zeit in Anspruch nehmen kann. 
 
 Weitere Informationen möchten wir Sie bitten der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html) entnehmen.
 
-#### [Option 2] Google Colab Umgebung ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main))
+#### [Option 2] Google Colab Umgebung ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CADS/blob/main))
 
 In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötigen Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenfrei zur Verfügung.
 
