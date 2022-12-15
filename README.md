@@ -10,6 +10,8 @@ Wir wünschen Ihnen viel Freude bei Ihrer **Datenanalyse**!
 
 ## Jupyter Lab Notebooks
 
+https://notebooks.gesis.org/binder/v2/gh/GitiHubi/CADS/main?filepath=lab_00%2F/lab_00.ipynb
+
 Nachfolgend finden Sie unsere aktuellen Notebooks: 
 
 | Lab | Datum        |Thema                                                  | Binder Launcher(s) | Colab Launcher(s) |
