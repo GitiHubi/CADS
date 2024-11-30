@@ -54,4 +54,4 @@ Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Web
 
 Bitte zögern Sie nicht, uns Ihre Fragen, Ideen bzw. Anregungen über die folgende Mailadresse zu senden:
 
-**marco (dot) schreyer (at) unisg (dot) ch**.
+**marco (dot) schreyer (at) efk (dot) admin (dot) ch**.
